@@ -10,7 +10,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Type your temperature in fahrenheit");
         f = scanner.nextInt();
-        9
+
         System.out.println("The temperature in celsius is " + 5 * ((f-32) / 9));
     }
 }
